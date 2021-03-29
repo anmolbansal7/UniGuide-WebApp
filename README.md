@@ -1,2 +1,3 @@
-# UniGuide
-A Resource Management System
+## UniGuide WebApp
+
+### UniGuide - A Resource Management System
